@@ -1,6 +1,6 @@
-package br.com.alurafood.pedidos.dto;
+package com.gomeschristopher.orders.dto;
 
-import br.com.alurafood.pedidos.model.Status;
+import com.gomeschristopher.orders.model.Status;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

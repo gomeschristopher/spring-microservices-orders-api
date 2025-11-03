@@ -1,4 +1,4 @@
-package br.com.alurafood.pedidos.dto;
+package com.gomeschristopher.orders.dto;
 
 import lombok.*;
 

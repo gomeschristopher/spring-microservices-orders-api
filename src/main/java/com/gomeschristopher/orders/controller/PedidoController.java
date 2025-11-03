@@ -1,8 +1,8 @@
-package br.com.alurafood.pedidos.controller;
+package com.gomeschristopher.orders.controller;
 
-import br.com.alurafood.pedidos.dto.PedidoDto;
-import br.com.alurafood.pedidos.dto.StatusDto;
-import br.com.alurafood.pedidos.service.PedidoService;
+import com.gomeschristopher.orders.dto.PedidoDto;
+import com.gomeschristopher.orders.dto.StatusDto;
+import com.gomeschristopher.orders.service.PedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
